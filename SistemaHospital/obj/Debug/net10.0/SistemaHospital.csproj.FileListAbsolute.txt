@@ -1,0 +1,11 @@
+C:\Users\valer\OneDrive\Desktop\Paradigmas\Sistema_Hospital\SistemaHospital\obj\Debug\net10.0\SistemaHospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\OneDrive\Desktop\Paradigmas\Sistema_Hospital\SistemaHospital\obj\Debug\net10.0\SistemaHospital.AssemblyInfoInputs.cache
+C:\Users\valer\OneDrive\Desktop\Paradigmas\Sistema_Hospital\SistemaHospital\obj\Debug\net10.0\SistemaHospital.AssemblyInfo.cs
+C:\Users\valer\OneDrive\Desktop\Paradigmas\Sistema_Hospital\SistemaHospital\obj\Debug\net10.0\SistemaHospital.csproj.CoreCompileInputs.cache
+C:\Users\valer\OneDrive\Desktop\Paradigmas\Sistema_Hospital\SistemaHospital\bin\Debug\net10.0\SistemaHospital.deps.json
+C:\Users\valer\OneDrive\Desktop\Paradigmas\Sistema_Hospital\SistemaHospital\bin\Debug\net10.0\SistemaHospital.dll
+C:\Users\valer\OneDrive\Desktop\Paradigmas\Sistema_Hospital\SistemaHospital\bin\Debug\net10.0\SistemaHospital.pdb
+C:\Users\valer\OneDrive\Desktop\Paradigmas\Sistema_Hospital\SistemaHospital\obj\Debug\net10.0\SistemaHospital.dll
+C:\Users\valer\OneDrive\Desktop\Paradigmas\Sistema_Hospital\SistemaHospital\obj\Debug\net10.0\refint\SistemaHospital.dll
+C:\Users\valer\OneDrive\Desktop\Paradigmas\Sistema_Hospital\SistemaHospital\obj\Debug\net10.0\SistemaHospital.pdb
+C:\Users\valer\OneDrive\Desktop\Paradigmas\Sistema_Hospital\SistemaHospital\obj\Debug\net10.0\ref\SistemaHospital.dll
